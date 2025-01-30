@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+* 🔭 I’m currently working on making my own video game!
+* 🌱 I’m currently learning how to program better and more effectively every day :)
 <!--
 **Licensed-Idiot/licensed-idiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
